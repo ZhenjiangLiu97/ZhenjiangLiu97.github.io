@@ -31,7 +31,7 @@ More importantly, I am deeply interested in rapid response and timely research o
 
 [Coseismic Rupture and Early Afterslip of the 2023 Herat (Afghanistan) Earthquake Sequence](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2024JB029495)
 
-Citation: **Liu, Z.**, Li, Z., Yu, C., Song, C., Wang, J., Zhang, X., et al. (2025). Coseismic rupture and early afterslip of the 2023 Herat (Afghanistan) earthquake sequence: Insights from Sentinel-1 radar observations. Journal of Geophysical Research: Solid Earth, 130, e2024JB029495. https://doi.org/10.1029/2024JB029495 <br/><br/>
+Citation: **Liu, Z.**, Li, Z., Yu, C., Song, C., Wang, J., Zhang, X., et al. (2025). Coseismic rupture and early afterslip of the 2023 Herat (Afghanistan) earthquake sequence: Insights from Sentinel-1 radar observations. Journal of Geophysical Research: Solid Earth, 130, e2024JB029495. https://doi.org/10.1029/2024JB029495<br/><br/>
 
 [Coseismic Rupture and Early Afterslip of the 2023 Herat (Afghanistan) Earthquake Sequence](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2024JB029495)
 
