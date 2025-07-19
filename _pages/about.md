@@ -29,12 +29,9 @@ More importantly, I am deeply interested in rapid response and timely research o
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+[Coseismic Rupture and Early Afterslip of the 2023 Herat (Afghanistan) Earthquake Sequence](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2024JB029495)
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Citation: **Liu, Z.**, Li, Z., Yu, C., Song, C., Wang, J., Zhang, X., et al. (2025). Coseismic rupture and early afterslip of the 2023 Herat (Afghanistan) earthquake sequence: Insights from Sentinel-1 radar observations. Journal of Geophysical Research: Solid Earth, 130, e2024JB029495. https://doi.org/10.1029/2024JB029495
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
