@@ -47,7 +47,7 @@ Citation: **Liu, Z.**, Han, B., Nai, Y., Li, Z., Yu, C., Song, C., Chen, B., Zha
 
 [Seismogenic faults and building damage of the 2023 Herat earthquake sequence](http://ch.whu.edu.cn/en/article/doi/10.13203/j.whugis20230382)
 
-Citation: **Liu, Z.**, Han, B., Liu, H., Li, Z., Nai, Y., Chen, B., and Peng, J. (2023). Seismogenic faults and building damage of the 2023 Herat earthquake sequence revealed by radar interferometry. Geomatics and Information Science of Wuhan University (In Chinese), 48(11). [https://doi.org/10.13203/j.whugis20230382](https://doi.org/10.13203/j.whugis20230382).
+Citation: **Liu, Z.**, Han, B., Liu, H., Li, Z., Nai, Y., Chen, B., and Peng, J. (2023). Seismogenic faults and building damage of the 2023 Herat earthquake sequence revealed by radar interferometry. Geomatics and Information Science of Wuhan University (In Chinese), 48(11). [https://doi.org/10.13203/j.whugis20230382](https://doi.org/10.13203/j.whugis20230382).<br/><br/>
 
 [Coseismic Deformation and Slip Distribution of the 2022 Luding Mw6.6 Earthquake](http://ch.whu.edu.cn/en/article/doi/10.13203/j.whugis20220636)
 
