@@ -37,6 +37,23 @@ Citation: **Liu, Z.**, Li, Z., Yu, C., Song, C., Wang, J., Zhang, X., et al. (20
 
 Citation: **Liu, Z.**, Li, Z., Yu, C., Zhang, X., and Peng, J. (2024). Stress triggering and future seismic hazards implied by four large earthquakes in the Pamir from 2015 to 2023 revealed by Sentinel-1 radar interferometry, Geophysical Journal International, 237(2), 887-901, [https://doi.org/10.1093/gji/ggae079](https://doi.org/10.1093/gji/ggae079).<br/><br/>
 
+[Co- and post-seismic mechanisms of the 2020 Mw 6.3 Yutian earthquake](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022EA002604) 
+
+Citation: **Liu, Z.**, Yu, C., Li, Z., Zhang, X., Zhang, M., Feng, W., Han, B., and Peng, J. (2023). Co- and post-seismic mechanisms of the 2020 Mw 6.3 Yutian earthquake and local stress evolution. Earth and Space Science, 10, e2022EA002604. [https://doi.org/10.1029/2022EA002604](https://doi.org/10.1029/2022EA002604).<br/><br/>
+
+[Source Parameters and Slip Distribution of the 2023 Mw 6.0 Jishishan (Gansu, China) Earthquake](http://ch.whu.edu.cn/en/article/doi/10.13203/j.whugis20240008)
+
+Citation: **Liu, Z.**, Han, B., Nai, Y., Li, Z., Yu, C., Song, C., Chen, B., Zhao, L., Zhang, X., and Peng, J. (2024). Source parameters and slip distribution of the 2023 Mw 6.0 Jishishan (Gansu, China) earthquake constrained by InSAR observations. Geomatics and Information Science of Wuhan University (In Chinese), 1–13. [https://doi.org/10.13203/j.whugis20240008](https://doi.org/10.13203/j.whugis20240008).<br/><br/>
+
+[Seismogenic faults and building damage of the 2023 Herat earthquake sequence](http://ch.whu.edu.cn/en/article/doi/10.13203/j.whugis20230382)
+
+Citation: **Liu, Z.**, Han, B., Liu, H., Li, Z., Nai, Y., Chen, B., and Peng, J. (2023). Seismogenic faults and building damage of the 2023 Herat earthquake sequence revealed by radar interferometry. Geomatics and Information Science of Wuhan University (In Chinese), 48(11). [https://doi.org/10.13203/j.whugis20230382](https://doi.org/10.13203/j.whugis20230382).
+
+[Coseismic Deformation and Slip Distribution of the 2022 Luding Mw6.6 Earthquake](http://ch.whu.edu.cn/en/article/doi/10.13203/j.whugis20220636)
+
+Citation: Han, B.†, **Liu, Z.,†(co-first author)**, Chen, B., Li, Z., Yu, C., Zhang, Y., and Peng, J. (2023). Coseismic deformation and slip distribution of the 2022 Luding Mw6.6 earthquake revealed by InSAR observations. Geomatics and Information Science of Wuhan University (In Chinese), 48(1), 36–46. [https://doi.org/10.13203/j.whugis20220636](https://doi.org/10.13203/j.whugis20220636).<br/><br/>
+
+
 # 🎖 Honors and Awards
 - *2025.01* Listed among the Top 1% Highly Cited Scholars in CNKI (China National Knowledge Infrastructure) in 2024.
 - *2024.10* National Scholarship (Phd student), The Ministry of Education of the People's Republic of China.
