@@ -25,7 +25,7 @@ More importantly, I am deeply interested in rapid response and timely research o
 
 # 🔥 News
 - *2025.04*: &nbsp;🎉🎉 Our paper on the 2023 Herat earthquake sequence in Afghanistan has been published in [Journal of Geophysical Research: Solid Earth](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2024JB029495). 
-- *2024.12*: &nbsp;🎉🎉 I presented our latest research progress on the 2024 Hualien earthquake at the AGU Fall Meeting held in Washington, D.C. 
+- *2024.12*: &nbsp;🎉🎉 We presented our latest research progress on the 2024 Hualien earthquake at the AGU Fall Meeting held in Washington, D.C. 
 
 # 📝 Publications 
 
