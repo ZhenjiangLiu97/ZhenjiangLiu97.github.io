@@ -24,7 +24,7 @@ I utilize multi-source observations — such as geodetic data (e.g., InSAR, GNSS
 More importantly, I am deeply interested in rapid response and timely research on global catastrophic events. I have been engaged in emergency studies of earthquakes both in China and abroad, including co-seismic fault modeling and analysis of the 2022 Menyuan earthquake, 2022 Luding earthquake, 2022 Taitung earthquake sequence, 2023 Türkiye earthquake sequence, 2023 Herat earthquake sequence, 2023 Jishishan earthquake, 2024 Wushi earthquake, and 2024 Hualien earthquake. I have also participated in field investigations for the 2022 Menyuan earthquake, 2022 Luding earthquake, and 2023 Jishishan earthquake.
 
 # 🔥 News
-- *2025.04*: &nbsp;🎉🎉 Our paper on the 2023 Herat earthquake sequence in Afghanistan has been published in Journal of Geophysical Research: Solid Earth. 
+- *2025.04*: &nbsp;🎉🎉 Our paper on the 2023 Herat earthquake sequence in Afghanistan has been published in [Journal of Geophysical Research: Solid Earth](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2024JB029495). 
 - *2024.12*: &nbsp;🎉🎉 I presented our latest research progress on the 2024 Hualien earthquake at the AGU Fall Meeting held in Washington, D.C. 
 
 # 📝 Publications 
