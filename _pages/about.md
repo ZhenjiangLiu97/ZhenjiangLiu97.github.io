@@ -17,14 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am a fourth-year PhD candidate in Geodesy and Surveying Engineering at Chang’an University, College of Geological Engineering and Geomatics. My research focuses on imaging geodesy and earthquake observation.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I utilize multi-source observations — such as geodetic data (e.g., InSAR, GNSS) and seismological data (e.g., aftershock relocation, strong-motion, and teleseismic waveforms) — together with various modeling techniques (e.g., finite-fault inversion, back-projection) to investigate and better understand source fault structures, rupture dynamics, and stress triggering mechanisms of catastrophic earthquakes. In addition, I am dedicated to compiling a global InSAR seismic catalogue and developing a shared system of global InSAR seismic fault models, which will provide valuable references for future seismic hazard research.
 
+More importantly, I am deeply interested in rapid response and timely research on global catastrophic events. I have been engaged in emergency studies of earthquakes both in China and abroad, including co-seismic fault modeling and analysis of the 2022 Menyuan earthquake, 2022 Luding earthquake, 2022 Taitung earthquake sequence, 2023 Türkiye earthquake sequence, 2023 Herat earthquake sequence, 2023 Jishishan earthquake, 2024 Wushi earthquake, and 2024 Hualien earthquake. I have also participated in field investigations for the 2022 Menyuan earthquake, 2022 Luding earthquake, and 2023 Jishishan earthquake.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.04*: &nbsp;🎉🎉 Our paper on the 2023 Herat earthquake sequence in Afghanistan has been published in Journal of Geophysical Research: Solid Earth. 
+- *2024.12*: &nbsp;🎉🎉 I presented our latest research progress on the 2024 Hualien earthquake at the AGU Fall Meeting held in Washington, D.C. 
 
 # 📝 Publications 
 
