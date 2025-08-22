@@ -24,11 +24,15 @@ I utilize multi-source observations — such as geodetic data (e.g., InSAR, GNSS
 More importantly, I am deeply interested in rapid response and timely research on global catastrophic events. I have been engaged in emergency studies of earthquakes both in China and abroad, including co-seismic fault modeling and analysis of the 2022 Menyuan earthquake, 2022 Luding earthquake, 2022 Taitung earthquake sequence, 2023 Türkiye earthquake sequence, 2023 Herat earthquake sequence, 2023 Jishishan earthquake, 2024 Wushi earthquake, and 2024 Hualien earthquake. I have also participated in field investigations for the 2022 Menyuan earthquake, 2022 Luding earthquake, and 2023 Jishishan earthquake.
 
 # 🔥 News
-- *2025.08*: &nbsp;🎉🎉 Our new paper on the 2024 Hualien earthquake has been accepted by [Journal of Geophysical Research: Solid Earth](https://doi.org/10.22541/essoar.173557618.86690706/v1). 
+- *2025.08*: &nbsp;🎉🎉 Our paper on the 2024 Hualien earthquake has been published in [Journal of Geophysical Research: Solid Earth](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JB031025). 
 - *2025.04*: &nbsp;🎉🎉 Our paper on the 2023 Herat earthquake sequence in Afghanistan has been published in [Journal of Geophysical Research: Solid Earth](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2024JB029495). 
 - *2024.12*: &nbsp;🎉🎉 We presented our latest research progress on the 2024 Hualien earthquake at the AGU Fall Meeting held in Washington, D.C. 
 
 # 📝 Publications 
+
+[New Insights of the Conjugate Seismogenic Structure in the Northernmost Longitudinal Valley Revealed by the 2024 Hualien (Taiwan) Earthquake](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JB031025)
+
+Citation: **Liu, Z.**, Hu, J.-C., Li, Z., Yu, C., Song, C., Wang, Z., et al. (2025). New insights of the conjugate seismogenic structure in the northernmost Longitudinal Valley revealed by the 2024 Hualien (Taiwan) earthquake from geodetic and seismic observations. Journal of Geophysical Research: Solid Earth, 130, e2024JB031025. [https://doi.org/10.1029/2024JB031025](https://doi.org/10.1029/2024JB031025).<br/><br/>
 
 [Coseismic Rupture and Early Afterslip of the 2023 Herat (Afghanistan) Earthquake Sequence](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2024JB029495)
 
